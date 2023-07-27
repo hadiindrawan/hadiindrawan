@@ -1,8 +1,8 @@
-# Hallo
-Perkenalkan nama saya **Hadi Indrawan**.\
-Saya mahasiswa **Universitas Pendidikan Indonesia**
-Saya merupakan lulusan front-end developer expert di [Dicoding](https://www.dicoding.com/).\
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/hadi-indrawan/)ku ya.
+# Hi
+I am **Hadi Indrawan**. I am a skilled Quality Assurance (QA) Engineer with over a year of experience in the field. I specialize in using automation tools to ensure that software products are developed and delivered to the highest standards.
+
+Let's connect on [Linkedin](https://www.linkedin.com/in/hadi-indrawan/)
+Here my [Portfolio](https://www.hadiindrawan.my.id/)
  
 <p align="left">
 <a href="https://github.com/hadiindrawan">
