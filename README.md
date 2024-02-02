@@ -3,7 +3,9 @@ I am **Hadi Indrawan**. I am a skilled Quality Assurance (QA) Engineer with over
 
 Let's connect on [Linkedin](https://www.linkedin.com/in/hadi-indrawan/)
 Here my [Portfolio](https://www.hadiindrawan.my.id/)
- 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadiindrawan)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="left">
 <a href="https://github.com/hadiindrawan">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hadiindrawan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
